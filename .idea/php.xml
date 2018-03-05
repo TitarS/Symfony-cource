@@ -12,6 +12,7 @@
       <path value="$PROJECT_DIR$/vendor/delight-im/db" />
       <path value="$PROJECT_DIR$/vendor/delight-im/base64" />
       <path value="$PROJECT_DIR$/vendor/delight-im/auth" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
     </include_path>
   </component>
 </project>
